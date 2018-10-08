@@ -1,0 +1,24 @@
+<hmtl>
+	<head>
+		<title>Yiğit ilk site</title>
+		<meta charset="UTF-8">
+	</head>
+			<br><strong>ADI SEVDA</strong></br>
+			
+			<pre>
+			Dokunduğum en sıcak ağustos akşamısın
+			Ellerimde sevdanın yanık kokusu
+			Gezindiğim avare bir deniz kıyısı
+			En güzel mehtap sensin denize dost
+			Aradığım bulunmayan haykırdığım duyulmayan
+			Sen asla dün olmayan bir yaşanmamış an
+			Saçların rüzgarsa gözlerin nerede
+			Sesin şarkılarda nerede
+			Yüreğin
+			Ellerimde sevdanın yanık kokusu
+			Ey adı sevda nerede
+			Ellerin Aradığım bulunmayan haykırdığım duyulmayan
+			ellerim
+			</pre>
+
+</html>
